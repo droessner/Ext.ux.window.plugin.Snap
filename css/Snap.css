@@ -1,0 +1,14 @@
+.snap-proxy {
+	border-width: 2px;
+	border-style: solid;
+	border-color: #888888;
+	position: absolute;
+	top: 0;
+	margin: 1px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	box-shadow: #888888 0px 0px 6px;
+}
